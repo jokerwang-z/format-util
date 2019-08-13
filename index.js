@@ -89,6 +89,7 @@ export function formatDecimal(number, decimal, type) {
  */
 export function formatNumber(str, options) {
   str += '';
+  options = options || {};
   const splitLength = options.splitLength || 3;
   const leftToRight = options.leftToRight || false;
   const type = options.type || ',';
