@@ -1,6 +1,6 @@
 {
   "name": "@jokerwang/format-util",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "格式化工具类",
   "main": "index.js",
   "scripts": {
